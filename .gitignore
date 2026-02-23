@@ -1,0 +1,7 @@
+venv/
+.env
+reposts.db
+__pycache__/
+*.pyc
+get-pip.py
+*.db
